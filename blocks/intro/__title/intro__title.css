@@ -1,0 +1,16 @@
+.intro__title {
+    max-width: 100%;
+    line-height: 107%;
+    font-size: 54px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+@media(max-width: 767px) {
+    .intro__title {
+        line-height: 109%;
+        font-size: 32px;
+    }
+}

@@ -1,0 +1,30 @@
+.intro__list {
+    max-width: 690px;
+    min-height: 90px;
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+    color: white;
+    text-decoration: none;
+    transition: ease 1s;
+}
+
+.intro__list:hover {
+    opacity: 0.5;
+}
+
+.intro__span-accent {
+    font-weight: bold;
+}
+
+@media(max-width: 1023px) {
+    .intro__list {
+        max-width: 720px;
+    }
+}
+
+@media(max-width: 767px) {
+    .intro__list {
+        max-width: 288px;
+    }
+}
