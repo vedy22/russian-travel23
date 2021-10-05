@@ -11,5 +11,6 @@
     .footer__links {
         max-width: 186px;
         flex-direction: column;
+        gap: 32px;
     }
 }
