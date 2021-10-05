@@ -12,12 +12,6 @@
     }
 }
 
-@media(max-width: 1023px) {
-    .place__website {
-        max-width: 352px;
-    }
-}
-
 @media(max-width: 767px) {
     .place__website {
         max-width: 288px;

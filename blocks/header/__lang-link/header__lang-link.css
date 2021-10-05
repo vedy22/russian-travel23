@@ -1,8 +1,7 @@
 .header__lang-link {
-    max-width: 30px;
     text-decoration: none;
     color: white;
-    line-height: 28px;
+    line-height: 117%;
     font-size: 24px;
     font-weight: normal;
     transition: ease 1s;
@@ -10,21 +9,11 @@
 
 @media(max-width: 767px) {
     .header__lang-link {
-        max-width: 22px;
         line-height: 111%;
         font-size: 18px;
     }
 }
 
 .header__lang-link:hover {
-    opacity: 0.5;
-    text-decoration: underline;
-}
-
-.header__lang-link_active {
-    text-decoration: underline;
-}
-
-.header__lang-link:last-of-type {
-    margin-left: 18px;
+    opacity: 0.3;
 }

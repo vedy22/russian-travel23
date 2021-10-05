@@ -5,15 +5,8 @@
     font-weight: normal;
     color: white;
     text-decoration: none;
-    transition: ease 1s;
-}
-
-.intro__list:hover {
-    opacity: 0.5;
-}
-
-.intro__span-accent {
-    font-weight: bold;
+    margin: 0;
+    padding: 0;
 }
 
 @media(max-width: 1023px) {

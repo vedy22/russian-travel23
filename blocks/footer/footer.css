@@ -16,7 +16,6 @@
     .footer {
         padding: 64px 118px 24px 16px;
         max-width: 186px;
-        display: flex;
         flex-direction: column;
         justify-content: flex-start;
         margin: 0;
