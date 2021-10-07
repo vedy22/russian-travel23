@@ -2,12 +2,11 @@
     max-width: 100%;
     font-size: 96px;
     line-height: 104%;
-    font-weight: bold;
+    font-weight: 900;
     color: white;
     text-align: center;
     margin: 0 auto;
 }
-
 
 @media(max-width: 767px) {
     .lead__title {
